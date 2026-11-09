@@ -1,0 +1,18 @@
+RSR LIGHT EVENT - Página web
+
+Archivos (deben quedar juntos en la misma carpeta):
+- index.html              la página completa (fotos y logo van dentro del archivo)
+- cubo-led-encendido.mp4  video de demostración
+- armado-cubo-led.mp4     video del armado de la placa
+- cubo-led-armado.mp4     video del cubo ya armado
+
+Para verla en tu computadora: abre index.html con el navegador.
+
+Para publicarla en GitHub Pages:
+1. Crea un repositorio y sube los 4 archivos a la raíz.
+2. Settings > Pages > Source: "Deploy from a branch", rama main, carpeta / (root).
+3. Espera uno o dos minutos y GitHub te dará el enlace.
+
+Antes de publicar: abre index.html con un editor de texto, busca CONFIG
+y escribe tu número de WhatsApp con código de país, sin signos ni espacios
+(ejemplo: 59170000000), en WHATSAPP: "".
